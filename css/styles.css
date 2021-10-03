@@ -32491,7 +32491,7 @@ video {
 @font-face {
   font-family: Comfortaa;
 
-  src: url(/dist/fonts/Comfortaa-Bold.ttf) format("truetype");
+  src: url(./fonts/Comfortaa-Bold.ttf) format("truetype");
 }
 
 .btn {
@@ -32534,7 +32534,7 @@ form textarea {
 }
 
 .thumbnail {
-  background-image: url(/dist/img/cover.jpg);
+  background-image: url(./img/cover.jpg);
 }
 
 .projects {
